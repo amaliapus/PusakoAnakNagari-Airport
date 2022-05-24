@@ -1,10 +1,10 @@
 1. This is my first time build a website.
-2. I followed instruction from bapak Java Web Media on Youtube if you curious, here's the link : https://youtube.com/playlist?list=PL4JT80p14XoCfGRZnbA0FU_hgYuJfWB9C 
+2. I followed the instruction from bapak Java Web Media on Youtube. If you are curious, here's the link: https://youtube.com/playlist?list=PL4JT80p14XoCfGRZnbA0FU_hgYuJfWB9C  
 3. Tools that i used:
 - codeigniter
 - bootstrap
 - adminlte
-- sublimetext
+- sublimetext 3
 - xampp
 
 4. Documentation
