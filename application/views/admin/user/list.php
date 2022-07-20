@@ -47,7 +47,7 @@
 						<a href="<?php echo base_url('admin/user/delete/' .$user->id_user) ?>" class="btn btn-danger btn-xs" onclick="return confirm('Yakin ingin hapus data ini?')"><i class="fa fa-trash"></i>Hapus</a>
 					</td>
 				</tr>
-					<?php }?>
+					<?php $no++; } ?>
 				</tbody>
 				</table>
 			</div>
